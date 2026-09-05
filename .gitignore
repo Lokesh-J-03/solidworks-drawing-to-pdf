@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated PDFs
+PDF/
+*.pdf
+
+# SolidWorks files
+*.SLDDRW
+*.SLDPRT
+*.SLDASM
+
+# VS Code
+.vscode/
+
+# PyInstaller
+build/
+*.spec
+
+# Executables
+*.exe
